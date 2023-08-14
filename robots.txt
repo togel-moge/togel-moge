@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://togel-moge.github.io/sitemap.xml
